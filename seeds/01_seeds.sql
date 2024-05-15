@@ -14,8 +14,6 @@ VALUES (1, 'Harrys House', 'THE house', 'n/a', 'n/a', 69, 2, 1, 2, 'Canada', 'Se
 (5, 'Marios Pizza', 'Pizza Time', 'https://example.com/thumbnail.jpg', 'https://example.com/cover.jpg', 85234, 6, 6, 7, 'Canada', 'Sesame Street', 'Banff', 'Alberta', '12345', true),
 (6, 'Scots Smokes', 'Take a break', 'https://example.com/thumbnail.jpg', 'https://example.com/cover.jpg', 46058, 0, 5, 6, 'Canada', 'Sesame Street', 'Lighthouse', 'Nova Scotia', '12345', true);
 
-
-
 INSERT INTO reservations (start_date, end_date, property_id, guest_id)
 VALUES ('2023-06-19', '2024-01-01', 2, 1),
 ('2023-06-19', '2024-01-01', 1, 3),
